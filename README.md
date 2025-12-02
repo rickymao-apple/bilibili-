@@ -12,6 +12,3 @@ brew install ffmpeg
 ```bash
 python3 main.py
 ```
-
-浏览器打开：
-http://127.0.0.1:7860
