@@ -1,4 +1,4 @@
-
-yt-dlp
-funasr
-gradio
+yt-dlp>=2024.1.1
+funasr>=1.1.0
+gradio>=4.0.0
+ffmpeg-python>=0.2.0
