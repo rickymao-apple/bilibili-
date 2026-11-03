@@ -1,0 +1,5 @@
+# Optional local speech recognition; subtitle extraction does not need these.
+-r requirements.txt
+funasr>=1.2,<2
+torch>=2.2,<3
+torchaudio>=2.2,<3

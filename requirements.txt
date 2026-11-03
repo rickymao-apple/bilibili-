@@ -1,4 +1,2 @@
-yt-dlp>=2024.1.1
-funasr>=1.1.0
-gradio>=4.0.0
-ffmpeg-python>=0.2.0
+yt-dlp>=2026.10.26,<2027
+gradio>=6.31,<7
